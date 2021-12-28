@@ -1,0 +1,5 @@
+proxies:
+- {name: "日本1", server: n23.hiation.xyz, port: 29029, type: vmess, uuid: 00b544f1-ec5d-3d6d-afee-1405597f2d71, alterId: 2, cipher: auto, udp: true, network: ws, ws-path: /oooo, ws-headers: {}}
+- {name: "香港1", server: n22.hiation.xyz, port: 29029, type: vmess, uuid: 00b544f1-ec5d-3d6d-afee-1405597f2d71, alterId: 2, cipher: auto, udp: true, network: ws, ws-path: /oooo, ws-headers: {}}
+- {name: "日本3", server: n26.hiation.xyz, port: 29029, type: vmess, uuid: 00b544f1-ec5d-3d6d-afee-1405597f2d71, alterId: 2, cipher: auto, udp: true, network: ws, ws-path: /oooo, ws-headers: {}}
+- {name: "香港2", server: n25.hiation.xyz, port: 29029, type: vmess, uuid: 00b544f1-ec5d-3d6d-afee-1405597f2d71, alterId: 2, cipher: auto, udp: true, network: ws, ws-path: /oooo, ws-headers: {}}
