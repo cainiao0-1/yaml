@@ -1,0 +1,443 @@
+proxies:
+- {"name":"🇭🇰 HK_618 |12.21Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰 HK","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_619 | 9.69Mb","server":"118.107.244.111","type":"ss","country":"🇭🇰HK","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_620 |14.25Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_621 |24.56Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":5601,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_622 | 5.43Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_623 | 5.74Mb","server":"118.107.244.111","type":"ss","country":"🇭🇰HK","port":8009,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_624 | 3.64Mb","server":"118.107.244.110","type":"ss","country":"🇭🇰HK","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_625 | 3.41Mb","server":"118.107.244.110","type":"ss","country":"🇭🇰HK","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_626 | 2.52Mb","server":"118.107.244.110","type":"ss","country":"🇭🇰HK","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_627 |16.93Mb","server":"118.107.244.111","type":"ss","country":"🇭🇰HK","port":8008,"password":"XKFKl2rULjIp74","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_628 |25.37Mb","server":"118.107.244.113","type":"ss","country":"🇭🇰HK","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_629 |25.12Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_630 |24.05Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_631 |24.85Mb","server":"118.107.244.113","type":"ss","country":"🇭🇰HK","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_632 |13.52Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_633 |24.72Mb","server":"118.107.244.113","type":"ss","country":"🇭🇰HK","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_634 | 4.50Mb","server":"84.17.37.55","type":"ss","country":"🇭🇰HK","port":8389,"password":"tjwRqQvteAjt3xFmbZTA","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_635 |21.51Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_636 |24.55Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":9101,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_637 | 2.42Mb","server":"118.107.244.110","type":"ss","country":"🇭🇰HK","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_638 | 1.71Mb","server":"118.107.244.109","type":"ss","country":"🇭🇰HK","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_639 |24.94Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_640 | 9.25Mb","server":"148.66.56.98","type":"ss","country":"🇭🇰HK","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇭🇰HK_641 | 2.55Mb","server":"118.107.244.110","type":"ss","country":"🇭🇰HK","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_642 | 2.46Mb","server":"118.107.244.110","type":"ss","country":"🇭🇰HK","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_643 |12.14Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_644 |23.14Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_645 |24.46Mb","server":"118.107.244.111","type":"ss","country":"🇭🇰HK","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_646 |25.44Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_647 | 2.28Mb","server":"118.107.244.110","type":"ss","country":"🇭🇰HK","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_648 |25.40Mb","server":"118.107.244.114","type":"ss","country":"🇭🇰HK","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_649 |23.06Mb","server":"118.107.244.112","type":"ss","country":"🇭🇰HK","port":8881,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇭🇰HK_651 |22.24Mb","server":"cmhk04.xc188.net","type":"vmess","country":"🇭🇰HK","port":443,"uuid":"65cac56d-4155-43c8-bae0-f368cb21f771","alterId":1,"cipher":"auto","network":"ws","ws-path":"/clientarea","servername":"cmhk04.xc188.net","ws-headers":{"HOST":"cmhk04.xc188.net"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇭🇰HK_652 | 2.09Mb","server":"hk.azure.elaina.link","type":"vmess","country":"🇭🇰HK","port":443,"uuid":"4c18ee2d-7573-4c9a-9400-8349d59ad527","alterId":1,"cipher":"auto","network":"ws","ws-path":"/JJkuv3","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇭🇰HK_653 |11.03Mb","server":"hk.azure.elaina.link","type":"vmess","country":"🇭🇰HK","port":56688,"uuid":"4c18ee2d-7573-4c9a-9400-8349d59ad527","alterId":1,"cipher":"auto","network":"ws","ws-path":"/hhhaaa114514","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇭🇰HK_654 |10.99Mb","server":"hk.azure.elaina.link","type":"vmess","country":"🇭🇰HK","port":80,"uuid":"4c18ee2d-7573-4c9a-9400-8349d59ad527","alterId":1,"cipher":"auto","network":"ws","ws-path":"/","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇭🇰HK_655 |12.06Mb","server":"hkhkt1.biteb.club","type":"vmess","country":"🇭🇰HK","port":10871,"uuid":"275ee57d-67cd-3199-b0b1-2ef5fe996376","alterId":2,"cipher":"auto","network":"ws","ws-path":"index","servername":"t.me/vpnhat","ws-headers":{"HOST":"t.me/vpnhat"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇭🇰HK_656","server":"20.187.71.212","type":"vmess","country":"🇭🇰HK","port":101,"uuid":"38ecde79-4031-3c86-b6c0-3d2ce9abab1d","alterId":1,"cipher":"auto","network":"ws","ws-path":"/niaoyun","servername":"mf-aws-sg-01.xncloud.xyz","ws-headers":{"HOST":"mf-aws-sg-01.xncloud.xyz"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇭🇰HK_657 |11.97Mb","server":"hkhkt1.biteb-ssx.xyz","type":"vmess","country":"🇭🇰HK","port":10871,"uuid":"773b08b5-4c34-31c4-be74-d2cfaf335a25","alterId":2,"cipher":"auto","network":"ws","ws-path":"index","servername":"hkhkt1.biteb-ssx.xyz","ws-headers":{"HOST":"hkhkt1.biteb-ssx.xyz"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇭🇰HK_658 |11.72Mb","server":"tk.shcn2.tkddns.xyz","type":"vmess","country":"🇭🇰HK","port":22642,"uuid":"98e96c9f-4bb3-39d4-9a2c-fac04257f7c7","alterId":2,"cipher":"auto","network":"ws","ws-path":"/","servername":"zxjp-b.tkong.cc","ws-headers":{"HOST":"zxjp-b.tkong.cc"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇭🇰HK_659 |22.37Mb","server":"161.81.195.100","type":"vmess","country":"🇭🇰HK","port":443,"uuid":"65cac56d-4155-43c8-bae0-f368cb21f771","alterId":1,"cipher":"auto","network":"ws","ws-path":"/clientarea","servername":"cmhk04.xc188.net","ws-headers":{"HOST":"cmhk04.xc188.net"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇭🇰HK_660 |11.50Mb","server":"103.138.75.235","type":"vmess","country":"🇭🇰HK","port":443,"uuid":"8ccc3052-4941-47e4-b85f-a67ea71e3fe6","alterId":1,"cipher":"auto","network":"ws","ws-path":"/clientarea","servername":"103.138.75.235","ws-headers":{"HOST":"103.138.75.235"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇭🇰HK_661","server":"hk31.ssgnode.ga","type":"trojan","country":"🇭🇰HK","port":443,"password":"41742_920c8caa","skip-cert-verify":true,"udp":true}
+- {"name":"🇭🇰HK_662","server":"www.zx07.top","type":"trojan","country":"🇭🇰HK","port":443,"password":"L1qNeGrY58ApwrRA","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵JP_717 |19.66Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_718 |58.52Mb","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_719 | 5.85Mb","server":"89.31.126.155","type":"ss","country":"🇯🇵JP","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_720 |15.99Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_721 |14.28Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_722 |55.40Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_723 |28.97Mb","server":"84.17.34.8","type":"ss","country":"🇯🇵JP","port":8389,"password":"FuynHKjkzhBnmcLpaLKm","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_724 |42.20Mb","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_725 |58.16Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_726 |48.69Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_727 |24.63Mb","server":"141.164.56.250","type":"ss","country":"🇯🇵JP","port":8882,"password":"kDWvXYZoTBcGkC4","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_728 |55.41Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_729 |53.21Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_730 |17.99Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_731 |16.99Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_732 |17.09Mb","server":"185.160.24.224","type":"ss","country":"🇯🇵JP","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_733 |17.20Mb","server":"185.160.24.224","type":"ss","country":"🇯🇵JP","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_734 |15.69Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_735 | 4.25Mb","server":"185.160.24.217","type":"ss","country":"🇯🇵JP","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_736 |42.30Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_737 |19.23Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_738 | 1.82Mb","server":"89.31.126.150","type":"ss","country":"🇯🇵JP","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_739 | 3.24Mb","server":"5.181.5.136","type":"ss","country":"🇯🇵JP","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_740 | 2.02Mb","server":"89.31.126.150","type":"ss","country":"🇯🇵JP","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_741 |14.72Mb","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_742 |55.55Mb","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_743 | 5.64Mb","server":"89.31.126.155","type":"ss","country":"🇯🇵JP","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_744 |30.65Mb","server":"172.105.232.147","type":"ss","country":"🇯🇵JP","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_745 | 1.79Mb","server":"5.181.5.136","type":"ss","country":"🇯🇵JP","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_746 |55.76Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_747 |19.01Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_748 |55.51Mb","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_749 |54.43Mb","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":7306,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_750 |19.02Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_751 |53.76Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":8091,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_752 |20.54Mb","server":"185.160.24.224","type":"ss","country":"🇯🇵JP","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_753 |16.10Mb","server":"185.160.24.224","type":"ss","country":"🇯🇵JP","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_754 |18.72Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_755 |55.33Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_756 |58.24Mb","server":"172.105.244.165","type":"ss","country":"🇯🇵JP","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_757 |30.87Mb","server":"139.162.80.175","type":"ss","country":"🇯🇵JP","port":6679,"password":"TEzjfAYq2IjtuoS","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_758 |17.44Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_759 |56.11Mb","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":7307,"password":"FoOiGlkAA9yPEGP","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_760","server":"185.160.24.224","type":"ss","country":"🇯🇵JP","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_761","server":"139.162.116.154","type":"ss","country":"🇯🇵JP","port":7002,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_762","server":"172.104.82.126","type":"ss","country":"🇯🇵JP","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_763","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_764","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_765 |24.82Mb","server":"141.164.56.250","type":"ss","country":"🇯🇵JP","port":7001,"password":"RexnBgU7EV5ADxG","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_766 |19.62Mb","server":"185.172.113.156","type":"ss","country":"🇯🇵JP","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_767","server":"172.105.251.193","type":"ss","country":"🇯🇵JP","port":5004,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇯🇵JP_768 | 5.80Mb","server":"89.31.126.155","type":"ss","country":"🇯🇵JP","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_769","server":"185.160.24.224","type":"ss","country":"🇯🇵JP","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_770 | 1.75Mb","server":"5.181.5.136","type":"ss","country":"🇯🇵JP","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇯🇵JP_771","server":"52.194.253.5","type":"ssr","country":"🇯🇵JP","port":8081,"password":"3H2aN5Gnm","cipher":"aes-256-cfb","protocol":"origin","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇯🇵JP_772","server":"54.199.57.125","type":"ssr","country":"🇯🇵JP","port":8081,"password":"3oaJ5K2Wn","cipher":"aes-256-cfb","protocol":"origin","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇯🇵JP_773","server":"jp-am48-9.eqnode.net","type":"ssr","country":"🇯🇵JP","port":8081,"password":"3H2aN5Gnm","cipher":"aes-256-cfb","protocol":"origin","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇯🇵JP_774","server":"jp-am46.eqnode.net","type":"ssr","country":"🇯🇵JP","port":8081,"password":"3oaJ5K2Wn","cipher":"aes-256-cfb","protocol":"origin","obfs":"tls1.2_ticket_auth"}
+- {"name":"🇯🇵JP_775","server":"mf-aws-jp-03.xncloud.xyz","type":"vmess","country":"🇯🇵JP","port":18000,"uuid":"36444988-5420-30e6-8d48-87088c824a49","alterId":1,"cipher":"auto","network":"ws","ws-path":"/niaoyun","servername":"t.me/vpnhat","ws-headers":{"HOST":"t.me/vpnhat"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_776","server":"172.104.98.216","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"e5af0cad-295c-37b2-b601-f35d13f6b1bb","alterId":64,"cipher":"auto","network":"ws","ws-path":"/","servername":"www.gov.hk","ws-headers":{"HOST":"www.gov.hk"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_777","server":"c27821f.he.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.apple.com:16708","servername":"c27821f.he.gladns.com","ws-headers":{"HOST":"c27821f.he.gladns.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_778","server":"ff5c0fb.hd.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"baidu.com","ws-headers":{"HOST":"baidu.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_779","server":"ff5c0fb.hc.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"baidu.com","ws-headers":{"HOST":"baidu.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_780","server":"52.196.144.61","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.apple.com:16708","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_781","server":"a83679f.th.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_782","server":"c27821f.ha.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.apple.com:16708","servername":"c27821f.ha.gladns.com","ws-headers":{"HOST":"c27821f.ha.gladns.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_783","server":"d0a8692.hb.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"api.qq.com","ws-headers":{"HOST":"api.qq.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_784","server":"d0a8692.rf.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"rx.moss.network","ws-headers":{"HOST":"rx.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_785","server":"52.196.144.61","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.icloud.com:16708","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_786","server":"d0a8692.t1.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"trump.moss.network","ws-headers":{"HOST":"trump.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_787","server":"ff5c0fb.rb.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_788","server":"d0a8692.he.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"stmp.163.com","ws-headers":{"HOST":"stmp.163.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_789","server":"ff5c0fb.rf.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_790","server":"d0a8692.rc.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"rx.moss.network","ws-headers":{"HOST":"rx.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_791","server":"a83679f.mg.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_792","server":"a83679f.hd.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_793","server":"a83679f.t1.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_794","server":"a83679f.cw.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_795","server":"a83679f.td.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_796","server":"a83679f.ds.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_797","server":"ff5c0fb.rf.gladns.com","type":"vmess","country":"🇯🇵JP","port":443,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"ff5c0fb.fm.icloud.com:30513","ws-headers":{"HOST":"ff5c0fb.fm.icloud.com:30513"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇯🇵JP_798","server":"a83679f.ra.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_799","server":"a83679f.hf.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_800","server":"a83679f.re.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_801","server":"d0a8692.re.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"rx.moss.network","ws-headers":{"HOST":"rx.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_802","server":"a83679f.md.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_803","server":"a83679f.ha.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_804","server":"d0a8692.t2.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"test.moss.network","ws-headers":{"HOST":"test.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_805","server":"d0a8692.ra.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"rx.moss.network","ws-headers":{"HOST":"rx.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_806","server":"a83679f.mf.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_807","server":"d0a8692.rd.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"rx.moss.network","ws-headers":{"HOST":"rx.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_808","server":"ff5c0fb.ra.gladns.com","type":"vmess","country":"🇯🇵JP","port":443,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"ff5c0fb.fm.icloud.com:30513","ws-headers":{"HOST":"ff5c0fb.fm.icloud.com:30513"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇯🇵JP_809","server":"d0a8692.t3.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"hk.moss.network","ws-headers":{"HOST":"hk.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_810","server":"a83679f.ma.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_811","server":"a83679f.ps.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_812","server":"a83679f.mi.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_813","server":"d0a8692.hf.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"api.icloud.com","ws-headers":{"HOST":"api.icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_814","server":"a83679f.os.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_815","server":"d0a8692.ha.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"api.apple.com","ws-headers":{"HOST":"api.apple.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_816","server":"a83679f.mc.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_817","server":"a83679f.rc.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_818","server":"d0a8692.hc.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"api.skype.com","ws-headers":{"HOST":"api.skype.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_819","server":"d0a8692.rb.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"rx.moss.network","ws-headers":{"HOST":"rx.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_820","server":"a83679f.rf.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_821","server":"a83679f.nx.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_822","server":"a83679f.mh.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_823","server":"a83679f.hb.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_824","server":"a83679f.me.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_825","server":"a83679f.hc.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_826","server":"a83679f.t3.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_827","server":"a83679f.rb.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_828","server":"a83679f.tt.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_829","server":"a83679f.rd.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_830","server":"ff5c0fb.he.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"baidu.com","ws-headers":{"HOST":"baidu.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_831","server":"a83679f.mb.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_832","server":"d0a8692.hd.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/s/d0a8692.fm.apple.com:32667","servername":"api.apple.com","ws-headers":{"HOST":"api.apple.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_833","server":"a83679f.he.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_834","server":"ff5c0fb.re.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_835","server":"ff5c0fb.hf.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"baidu.com","ws-headers":{"HOST":"baidu.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_836","server":"ff5c0fb.rc.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_837","server":"ff5c0fb.ha.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"baidu.com","ws-headers":{"HOST":"baidu.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_838","server":"ff5c0fb.t1.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"trump.moss.network","ws-headers":{"HOST":"trump.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_839","server":"ff5c0fb.t2.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"test.moss.network","ws-headers":{"HOST":"test.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_840","server":"ff5c0fb.rd.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_841","server":"c27821f.hf.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.apple.com:16708","servername":"c27821f.hf.gladns.com","ws-headers":{"HOST":"c27821f.hf.gladns.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_842","server":"ff5c0fb.rb.gladns.com","type":"vmess","country":"🇯🇵JP","port":443,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"ff5c0fb.fm.icloud.com:30513","ws-headers":{"HOST":"ff5c0fb.fm.icloud.com:30513"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇯🇵JP_843","server":"c27821f.wx.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.apple.com:16708","servername":"c27821f.wx.gladns.com","ws-headers":{"HOST":"c27821f.wx.gladns.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_844","server":"ff5c0fb.wx.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"baidu.com","ws-headers":{"HOST":"baidu.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_845","server":"ff5c0fb.rd.gladns.com","type":"vmess","country":"🇯🇵JP","port":443,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"ff5c0fb.fm.icloud.com:30513","ws-headers":{"HOST":"ff5c0fb.fm.icloud.com:30513"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇯🇵JP_846","server":"a83679f.ts.cloudflare.systems","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_847","server":"a83679f.t2.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":32,"cipher":"auto","network":"ws","ws-path":"/t","http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_848","server":"ff5c0fb.hb.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"baidu.com","ws-headers":{"HOST":"baidu.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_849","server":"52.196.144.61","type":"vmess","country":"🇯🇵JP","port":443,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.icloud.com:16708","servername":"52.196.144.61","ws-headers":{"HOST":"52.196.144.61"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇯🇵JP_850","server":"ff5c0fb.re.gladns.com","type":"vmess","country":"🇯🇵JP","port":443,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"ff5c0fb.fm.icloud.com:30513","ws-headers":{"HOST":"ff5c0fb.fm.icloud.com:30513"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇯🇵JP_851","server":"ff5c0fb.rc.gladns.com","type":"vmess","country":"🇯🇵JP","port":443,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"ff5c0fb.fm.icloud.com:30513","ws-headers":{"HOST":"ff5c0fb.fm.icloud.com:30513"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇯🇵JP_852","server":"ff5c0fb.t3.gladns.com","type":"vmess","country":"🇯🇵JP","port":3306,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.apple.com:30513","servername":"hk.moss.network","ws-headers":{"HOST":"hk.moss.network"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_853","server":"ff5c0fb.ra.gladns.com","type":"vmess","country":"🇯🇵JP","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇯🇵JP_854","server":"tky3.ssgnode.ga","type":"trojan","country":"🇯🇵JP","port":443,"password":"23115_5a451f03","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵JP_855","server":"tky3.ssgnode.ga","type":"trojan","country":"🇯🇵JP","port":443,"password":"lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵JP_856","server":"tky3.ssgnode.ga","type":"trojan","country":"🇯🇵JP","port":443,"password":"82a115db-6e59-4319-973lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵JP_857","server":"tky3.ssgnode.ga","type":"trojan","country":"🇯🇵JP","port":443,"password":"82lWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵JP_858","server":"tky3.ssgnode.ga","type":"trojan","country":"🇯🇵JP","port":443,"password":"82a115db-6e59-4319-9730-8f5638908d59YWVzLTI1Ni1nY2023115_5a451f03","skip-cert-verify":true,"udp":true}
+- {"name":"🇯🇵JP_859","server":"tky3.ssgnode.ga","type":"trojan","country":"🇯🇵JP","port":443,"password":"bcYWVzLTI1Ni1nY206Q1VuZFNabll23115_5a451f03","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_1014 | 2.75Mb","server":"217.197.161.164","type":"ss","country":"🇸🇬SG","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1015 | 2.14Mb","server":"217.197.161.164","type":"ss","country":"🇸🇬SG","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1016 |12.45Mb","server":"172.104.168.83","type":"ss","country":"🇸🇬SG","port":5003,"password":"g5MeD6Ft3CWlJId","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1017 | 2.05Mb","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1018 | 2.04Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1019 | 2.11Mb","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1020 |11.79Mb","server":"172.104.168.83","type":"ss","country":"🇸🇬SG","port":3306,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1021 |13.04Mb","server":"172.104.168.83","type":"ss","country":"🇸🇬SG","port":2375,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1022 | 2.13Mb","server":"81.90.189.152","type":"ss","country":"🇸🇬SG","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1025 | 2.05Mb","server":"217.197.161.167","type":"ss","country":"🇸🇬SG","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1027 | 2.15Mb","server":"217.197.161.167","type":"ss","country":"🇸🇬SG","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1028 | 2.03Mb","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":804,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1031 | 1.92Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1032 | 2.10Mb","server":"81.90.189.152","type":"ss","country":"🇸🇬SG","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1033 | 2.24Mb","server":"81.90.189.152","type":"ss","country":"🇸🇬SG","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1034 | 2.09Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1035 | 2.06Mb","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1036 | 2.06Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1037 | 2.15Mb","server":"81.90.189.184","type":"ss","country":"🇸🇬SG","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1038 | 2.18Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1039 | 2.08Mb","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1041 | 2.05Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1042 | 2.96Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1045 | 2.06Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":803,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1048 | 2.04Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1049 | 1.90Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1050 | 2.61Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1051 |12.26Mb","server":"172.104.168.83","type":"ss","country":"🇸🇬SG","port":3389,"password":"Y6R9pAtvxxzmGC","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1059 |22.19Mb","server":"172.104.168.83","type":"ss","country":"🇸🇬SG","port":8090,"password":"PCnnH6SQSnfoS27","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1062 |21.88Mb","server":"172.104.168.83","type":"ss","country":"🇸🇬SG","port":443,"password":"pKEW8JPByTVTLtM","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1063 | 2.06Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1064 | 3.41Mb","server":"217.197.161.166","type":"ss","country":"🇸🇬SG","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1065 | 5.01Mb","server":"217.197.161.166","type":"ss","country":"🇸🇬SG","port":802,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1072 | 2.10Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":805,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1073 | 2.07Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1074 | 2.03Mb","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1075 | 2.08Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":809,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1077 |23.51Mb","server":"84.17.38.144","type":"ss","country":"🇸🇬SG","port":8389,"password":"gTYdduTTEBBdVZ4LcBnT","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1078 | 2.07Mb","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1079 | 3.05Mb","server":"81.90.189.57","type":"ss","country":"🇸🇬SG","port":810,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1080 | 2.15Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1081 | 2.13Mb","server":"81.90.189.152","type":"ss","country":"🇸🇬SG","port":800,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1083 | 2.04Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1084 | 2.02Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1085 | 1.90Mb","server":"81.90.189.18","type":"ss","country":"🇸🇬SG","port":808,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1086 |12.91Mb","server":"172.104.168.83","type":"ss","country":"🇸🇬SG","port":8080,"password":"KixLvKzwjekG00rm","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1087 | 2.05Mb","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":807,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1088 | 2.00Mb","server":"217.197.161.136","type":"ss","country":"🇸🇬SG","port":806,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1089","server":"217.197.161.167","type":"ss","country":"🇸🇬SG","port":801,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1090 | 2.00Mb","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1091","server":"217.197.161.167","type":"ss","country":"🇸🇬SG","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1092","server":"139.162.56.155","type":"ss","country":"🇸🇬SG","port":9102,"password":"e4FCWrgpkji3QY","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1093","server":"81.90.189.57","type":"ss","country":"🇸🇬SG","port":811,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1094","server":"217.197.161.138","type":"ss","country":"🇸🇬SG","port":812,"password":"G!yBwPWH3Vao","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇸🇬SG_1095","server":"172.104.168.83","type":"ss","country":"🇸🇬SG","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1096","server":"139.162.24.50","type":"ss","country":"🇸🇬SG","port":2376,"password":"faBAoD54k87UJG7","cipher":"aes-256-gcm"}
+- {"name":"🇸🇬SG_1098","server":"zecjk.com","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"zecjk.com","ws-headers":{"HOST":"zecjk.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1099","server":"eeh7iewe.com","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1100","server":"jp-tokyo-node2.ycgyg.com","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"jp-tokyo-node2.ycgyg.com","ws-headers":{"HOST":"jp-tokyo-node2.ycgyg.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1101","server":"202.61.141.194","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1102","server":"ycgyg.com","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"ycgyg.com","ws-headers":{"HOST":"ycgyg.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1103","server":"202.61.141.130","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1104","server":"8.210.55.79","type":"vmess","country":"🇸🇬SG","port":80,"uuid":"d064d11b-477c-4c5d-a2d8-9fd599ef8e79","alterId":1,"cipher":"auto","network":"ws","ws-path":"/","servername":"8.210.55.79","ws-headers":{"HOST":"8.210.55.79"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1105","server":"103.253.26.20","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"zecjk.com","ws-headers":{"HOST":"zecjk.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1106","server":"103.253.26.134","type":"vmess","country":"🇸🇬SG","port":443,"uuid":"aba50dd4-5484-3b05-b14a-4661caf862d5","alterId":4,"cipher":"auto","network":"ws","ws-path":"/ws","servername":"eeh7iewe.com","ws-headers":{"HOST":"eeh7iewe.com"},"http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1107","server":"157.230.248.246","type":"vmess","country":"🇸🇬SG","port":8443,"uuid":"1de99090-4bd5-4670-9cec-05f55b4c6917","alterId":0,"cipher":"auto","network":"ws","ws-path":"/ssrsub","http-opts":{},"h2-opts":{},"tls":true,"skip-cert-verify":true}
+- {"name":"🇸🇬SG_1108","server":"sg3-trojan.bonds.id","type":"trojan","country":"🇸🇬SG","port":443,"password":"97fdf760-7bbf-11eb-8e14-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_1109","server":"sg3-trojan.bonds.id","type":"trojan","country":"🇸🇬SG","port":443,"password":"4c7985e0-79e8-11eb-b8d3-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇸🇬SG_1110","server":"sg1-trojan.bonds.id","type":"trojan","country":"🇸🇬SG","port":443,"password":"5c5ceb40-902b-11eb-945a-1239d0255272","skip-cert-verify":true,"udp":true}
+- {"name":"🇹🇼TW_1115","server":"188.214.106.98","type":"ss","country":"🇹🇼TW","port":8389,"password":"cNbqVVyUfbJFZ6S8EgRH","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇹🇼TW_1116","server":"188.214.106.98","type":"ss","country":"🇹🇼TW","port":8388,"password":"cNbqVVyUfbJFZ6S8EgRH","cipher":"chacha20-ietf-poly1305"}
+- {"name":"🇹🇼TW_1117","server":"59.125.11.158","type":"ss","country":"🇹🇼TW","port":8158,"password":"passinfo123","cipher":"rc4-md5"}
+- {"name":"🇹🇼TW_1118","server":"c27821f.re.cloudflare.systems","type":"vmess","country":"🇹🇼TW","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.icloud.com:16708","servername":"c27821f.re.cloudflare.systems","ws-headers":{"HOST":"c27821f.re.cloudflare.systems"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇹🇼TW_1119","server":"ff5c0fb.rf.cloudflare.systems","type":"vmess","country":"🇹🇼TW","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇹🇼TW_1120","server":"c27821f.rc.cloudflare.systems","type":"vmess","country":"🇹🇼TW","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.icloud.com:16708","servername":"c27821f.rc.cloudflare.systems","ws-headers":{"HOST":"c27821f.rc.cloudflare.systems"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇹🇼TW_1121","server":"ff5c0fb.re.cloudflare.systems","type":"vmess","country":"🇹🇼TW","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇹🇼TW_1122","server":"c27821f.rf.cloudflare.systems","type":"vmess","country":"🇹🇼TW","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.icloud.com:16708","servername":"c27821f.rf.cloudflare.systems","ws-headers":{"HOST":"c27821f.rf.cloudflare.systems"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇹🇼TW_1123","server":"ff5c0fb.rd.cloudflare.systems","type":"vmess","country":"🇹🇼TW","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇹🇼TW_1124","server":"c27821f.rd.cloudflare.systems","type":"vmess","country":"🇹🇼TW","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/c27821f.fm.icloud.com:16708","servername":"c27821f.rd.cloudflare.systems","ws-headers":{"HOST":"c27821f.rd.cloudflare.systems"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇹🇼TW_1125","server":"ff5c0fb.rc.cloudflare.systems","type":"vmess","country":"🇹🇼TW","port":80,"uuid":"57e0cb4d-eae5-48ec-8091-149dc2b309e0","alterId":0,"cipher":"auto","network":"ws","ws-path":"/s/ff5c0fb.fm.icloud.com:30513","servername":"icloud.com","ws-headers":{"HOST":"icloud.com"},"http-opts":{},"h2-opts":{},"skip-cert-verify":true}
+- {"name":"🇹🇼TW_1126","server":"2.58.242.43","type":"trojan","country":"🇹🇼TW","port":443,"password":"7a9a3bb7-43b4YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT","skip-cert-verify":true,"udp":true}
+- {"name":"🇹🇼TW_1127","server":"2.58.242.43","type":"trojan","country":"🇹🇼TW","port":443,"password":"YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VT","skip-cert-verify":true,"udp":true}
+ - {name: 末晨 12/26_263, server: 118.107.244.110, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇭🇰 HK_9101 @WangCai_1, server: 118.107.244.110, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇭🇰 HK_8119 @WangCai_1, server: 118.107.244.110, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: CYL-科技（祝大家圣诞快乐） 388, server: 139.99.62.207, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_8000 @WangCai_1, server: 118.107.244.110, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: "🇮🇹 意大利[感谢订阅——科技网络]", server: 139.99.62.207, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇭🇰 HK_5003 @WangCai_1, server: 118.107.244.110, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇭🇰 HK_8118 @WangCai_1, server: 118.107.244.110, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 末晨 12/26_170, server: 188.214.106.98, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: cNbqVVyUfbJFZ6S8EgRH}
+  - {name: 🇨🇳 台湾_131, server: 118.107.244.110, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇭🇰 HK_3306 @WangCai_1, server: 118.107.244.110, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇲 github.com/freefq - 美国  12, server: 172.99.190.87, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇺🇲 github.com/freefq - 美国  4, server: 172.99.190.87, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇺🇲 github.com/freefq - 北美地区  16, server: 198.57.27.218, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇲 github.com/freefq - 北美地区  5, server: 198.57.27.218, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 2021-12-29, server: 120.232.82.190, port: 4001, type: ss, cipher: aes-256-gcm, password: 43e27d84de893cced5b4d6adfd087cff}
+  - {name: 导航频道 TG@TBBAD, server: jp-am46.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: 3oaJ5K2Wn, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: releases.ubuntu.com}
+  - {name: 白嫖频道 TG@freekankan, server: jp-am48-9.eqnode.net, port: 8081, type: ssr, cipher: aes-256-cfb, password: 3H2aN5Gnm, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+  - {name: 备用频道 TG@TBBAV, server: 139.162.116.154, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇦🇨 国产频道 TG@TBBAC, server: 172.105.232.147, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 白嫖群组 TG@freeyule, server: 172.105.234.211, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇰🇷 日韩频道 TG@shoucangAV, server: 172.105.244.165, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇩🇰 01丹麦∞直连, server: 37.120.194.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 2V7N5kGUghaLxF4aUqTw}
+  - {name: 🇷🇺 02俄罗斯∞直连, server: 45.89.229.126, port: 18000, type: vmess, uuid: 44606009-f8e0-37d3-99be-b59b7075f991, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /niaoyun, ws-headers: {Host: mf-justhost-ru-01.xncloud.xyz}}
+  - {name: 🇷🇺 03俄罗斯∞直连, server: 193.233.85.3, port: 45174, type: vmess, uuid: 14823120-5dc2-11ec-b398-3a571dcc9720, alterId: 0, cipher: auto, tls: false}
+  - {name: 04保加利亚∞直连, server: 217.138.221.42, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: r4MP5DzDNmAqbBHzbSXw}
+  - {name: 🇨🇦 05加拿大∞直连, server: 139.99.62.207, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇨🇦 06加拿大∞直连, server: 139.99.62.207, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇨🇦 07加拿大∞直连, server: 139.99.62.207, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇨🇦 08加拿大∞直连, server: 198.57.27.184, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇨🇦 09加拿大∞直连, server: 198.57.27.184, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇨🇦 10加拿大∞直连, server: 198.57.27.243, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇮🇩 11印尼∞直连, server: 45.133.181.58, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qzj5NqakK4YvYYU87eFF}
+  - {name: 🇨🇳 12台湾∞中转, server: 188.214.106.98, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: cNbqVVyUfbJFZ6S8EgRH}
+  - {name: 🇨🇳 13台湾∞中转, server: 188.214.106.98, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: cNbqVVyUfbJFZ6S8EgRH}
+  - {name: 🇨🇳 14台湾∞中转, server: gz1.52168.xyz, port: 1101, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 31028:PGgTsb, obfs-param: 87a8531028.baidu.com}
+  - {name: 🇨🇳 15台湾∞中转, server: hkaz1.biteb-ssx.xyz, port: 14454, type: vmess, uuid: 773b08b5-4c34-31c4-be74-d2cfaf335a25, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: index, ws-headers: {Host: hkaz1.biteb-ssx.xyz}}
+  - {name: 16墨西哥∞直连, server: 169.57.35.97, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: 3Q5yYEGGMu8jU2p25aWL}
+  - {name: 🇩🇪 17德国∞中转, server: 5.253.204.194, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qLzS7DF9qRYxJTHfckhC}
+  - {name: 🇩🇪 18德国∞直连, server: 141.95.0.26, port: 826, type: ss, cipher: chacha20-ietf-poly1305, password: sF43Xt2gONqcgFX563}
+  - {name: 🇩🇪 19德国∞直连, server: 193.108.118.34, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 20挪威∞直连, server: 46.29.218.6, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 21挪威∞直连, server: 46.29.218.6, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 22挪威∞直连, server: 46.29.218.6, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 23挪威∞直连, server: 46.29.218.6, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 24挪威∞直连, server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 25挪威∞直连, server: 46.29.219.246, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇸🇬 26新加坡∞直连, server: 81.90.189.33, port: 889, type: ss, cipher: chacha20-ietf-poly1305, password: KhS1x8JT7p58RIp7gz}
+  - {name: 🇸🇬 27新加坡∞直连, server: 81.90.189.184, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇸🇬 28新西兰∞直连, server: 103.108.94.226, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: bFfLrvbG3GjjNSxKBWt5}
+  - {name: 🇯🇵 29日本∞直连, server: 172.105.244.165, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇯🇵 30日本∞直连, server: 185.160.24.224, port: 803, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 31比利时∞直连, server: 193.9.114.34, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇫🇷 32法国∞中转, server: 37.120.136.234, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: Xd2xnHT8tYkVt5BDk92b}
+  - {name: 🇫🇷 33法国∞中转, server: 145.239.1.137, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇫🇷 34法国∞中转, server: 145.239.1.137, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇫🇷 35法国∞中转, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇫🇷 36法国∞中转, server: 145.239.1.137, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇫🇷 37法国∞中转, server: 145.239.1.137, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇫🇷 38法国∞中转, server: 145.239.1.137, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇫🇷 39法国∞中转, server: 145.239.1.137, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇫🇷 40法国∞中转, server: 145.239.1.137, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇫🇷 41法国∞直连, server: 62.210.209.50, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇦🇺 42澳大利亚∞中转, server: 46.102.153.106, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: dsHq7JmRFhSkvxzCuMFy}
+  - {name: 🇦🇺 43澳大利亚∞直连, server: 172.105.171.80, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇦🇺 44澳大利亚∞直连, server: 172.105.180.227, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇨🇭 45瑞士∞直连, server: 37.120.137.82, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: EGTHtnGhcnggx5yBYSqS}
+  - {name: 🇷🇴 46罗马尼亚∞直连, server: 188.241.83.130, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇲 47美国∞中转, server: 18.218.198.254, port: 9999, type: vmess, uuid: d064d11b-477c-4c5d-a2d8-9fd599ef8e79, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 18.218.198.254}}
+  - {name: 🇺🇲 48美国∞中转, server: 23.226.131.146, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP}
+  - {name: 🇺🇲 49美国∞中转, server: 23.226.131.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: ckX2YfENbjCtVzVJphFP}
+  - {name: 🇺🇲 50美国∞中转, server: 66.55.92.101, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: NK4wZejCzDfPdWXTK4FW}
+  - {name: 🇺🇲 51美国∞中转, server: 70.32.0.208, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: q4apPAjyY9knqKS4e9xZ}
+  - {name: 🇺🇲 52美国∞中转, server: 96.47.224.2, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: YDNYJcNdH5xuLrhyr7Fj}
+  - {name: 🇺🇲 53美国∞中转, server: 104.223.91.146, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: QKyLzp5JUG6XEGy2wbEE}
+  - {name: 🇺🇲 54美国∞中转, server: 107.182.234.233, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: XkH8z99cQguQ8ywK5jhV}
+  - {name: 🇺🇲 56美国∞中转, server: cm-jm.okvpn.xyz, port: 20005, type: vmess, uuid: fa2c02cf-bbc1-4da0-b051-3731d87ec785, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: cm-jm.okvpn.xyz}}
+  - {name: 🇺🇲 57美国∞中转, server: gz1.52168.xyz, port: 1111, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 31028:PGgTsb, obfs-param: 87a8531028.baidu.com}
+  - {name: 🇺🇲 58美国∞中转, server: gz2.52168.xyz, port: 2102, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 31028:PGgTsb, obfs-param: 87a8531028.baidu.com}
+  - {name: 🇺🇲 59美国∞中转, server: jpaz3.biteb-ssx.xyz, port: 14464, type: vmess, uuid: 773b08b5-4c34-31c4-be74-d2cfaf335a25, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: index, ws-headers: {Host: jpaz3.biteb-ssx.xyz}}
+  - {name: 🇺🇲 62美国∞直连, server: 23.19.26.246, port: 10515, type: ss, cipher: aes-256-gcm, password: dongtaiwang.com}
+  - {name: 🇺🇲 63美国∞直连, server: 38.107.226.146, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇲 64美国∞直连, server: 38.107.226.241, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇲 65美国∞直连, server: 38.114.114.67, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇲 66美国∞直连, server: 38.114.114.68, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇲 67美国∞直连, server: 66.203.112.53, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇲 68美国∞直连, server: 142.4.123.249, port: 500, type: vmess, uuid: 0dcea9f2-10ac-11ec-a0bc-00163cf00cd9, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇲 69美国∞直连, server: 142.202.48.17, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇲 70美国∞直连, server: 142.202.48.43, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇺🇲 71美国∞直连, server: 142.202.48.52, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇲 72美国∞直连, server: 167.88.63.60, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇲 73美国∞直连, server: 167.88.63.74, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇲 74美国∞直连, server: 167.88.63.82, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇲 75美国∞直连, server: 167.88.63.82, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇲 76美国∞直连, server: 172.99.190.87, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇲 77美国∞直连, server: 172.99.190.87, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇲 78美国∞直连, server: 172.99.190.87, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇲 79美国∞直连, server: 172.99.190.87, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇺🇲 80美国∞直连, server: 172.99.190.87, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇺🇲 81美国∞直连, server: 172.99.190.90, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇲 82美国∞直连, server: 172.99.190.149, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇲 83美国∞直连, server: 172.99.190.153, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇲 84美国∞直连, server: 192.74.254.112, port: 52244, type: vmess, uuid: 015c0894-50e0-11ec-a3e8-00163c57bd9a, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /E0Y46mSw/, ws-headers: {Host: 192.74.254.112}}
+  - {name: 🇬🇧 85英国∞中转, server: 86.106.136.98, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: h6WG7sxsLTBGn7uyvMG8}
+  - {name: 🇬🇧 86英国∞中转, server: gz1.52168.xyz, port: 1117, type: ssr, cipher: aes-256-cfb, password: epChJS35fV, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: 31028:PGgTsb, obfs-param: 87a8531028.baidu.com}
+  - {name: 🇬🇧 87英国∞直连, server: 77.247.126.153, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇬🇧 88英国∞直连, server: 109.169.72.239, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 89葡萄牙∞直连, server: 185.90.57.152, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf}
+  - {name: 90葡萄牙∞直连, server: 185.90.57.152, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: qSnstpCypymLvPeyLRqf}
+  - {name: 🇰🇷 91韩国∞直连, server: kr-am6.eqnode.net, port: 443, type: ssr, cipher: aes-256-cfb, password: abHpSuLdQ, protocol: origin, obfs: tls1.2_ticket_auth, protocol-param: "", obfs-param: ""}
+  - {name: 🇭🇰 92香港∞中转, server: 112.33.32.136, port: 10001, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false}
+  - {name: 🇭🇰 93香港∞中转, server: shcn2-06b.iplc188.com, port: 10001, type: vmess, uuid: 65cac56d-4155-43c8-bae0-f368cb21f771, alterId: 1, cipher: auto, tls: false}
+  - {name: 🇭🇰 94香港∞直连, server: 118.107.244.113, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇲🇾 95马来西亚∞直连, server: 223.25.246.4, port: 8389, type: ss, cipher: chacha20-ietf-poly1305, password: w4GUD28Bw9uCMdbc2pqA}
+  - {name: 🇭🇰 azhk, server: 20.187.117.31, port: 36353, type: vmess, uuid: b8dee4a2-75b6-4e36-fc25-fb17e64b198e, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 20.187.117.31}}
+  - {name: 四百二十六, server: zz-kr-1.laov888.win, port: 21651, type: vmess, uuid: 67b1589b-473a-3875-9174-ed5e314fa41a, alterId: 2, cipher: auto, tls: false, network: ws, ws-path: /hls, ws-headers: {Host: zz-kr-1.laov888.win}}
+  - {name: 🇭🇰 HK, server: 118.107.244.112, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 azhk 2, server: 20.187.117.31, port: 36353, type: vmess, uuid: b8dee4a2-75b6-4e36-fc25-fb17e64b198e, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /, ws-headers: {Host: 20.187.117.31}}
+  - {name: Shadowport Beta Program1, server: 43.154.157.216, port: 60151, type: ss, cipher: chacha20-ietf-poly1305, password: dunkpzGG9FM9}
+  - {name: 🇭🇰 HK_6679 @WangCai_1, server: 118.107.244.112, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇭🇰 HK_8881 @WangCai_1, server: 118.107.244.112, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇭🇰 HK_8888 @WangCai_1, server: 118.107.244.112, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_5500 @WangCai_1, server: 118.107.244.112, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇭🇰 HK_8119 @WangCai_1, server: 118.107.244.112, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇭🇰 HK_9101 @WangCai_1, server: 118.107.244.112, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇭🇰 HK_6697 @WangCai_1, server: 118.107.244.112, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇭🇰 HK_8008 @WangCai_1, server: 118.107.244.112, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇭🇰 HK_8118 @WangCai_1, server: 118.107.244.112, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇭🇰 HK_3306 @WangCai_1, server: 118.107.244.112, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_5004 @WangCai_1, server: 118.107.244.112, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇭🇰 HK_7307 @WangCai_1, server: 118.107.244.112, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇭🇰 HK_0443 @WangCai_1, server: 118.107.244.112, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇭🇰 HK_5003 @WangCai_1, server: 118.107.244.112, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇭🇰 HK_6379 @WangCai_1, server: 118.107.244.112, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇭🇰 HK_8000 @WangCai_1, server: 118.107.244.112, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇭🇰 HK_8080 @WangCai_1, server: 118.107.244.112, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇭🇰 HK_5600 @WangCai_1, server: 118.107.244.112, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_8009 @WangCai_1, server: 118.107.244.112, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇭🇰 HK_5601 @WangCai_1, server: 118.107.244.112, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_5000 @WangCai_1, server: 118.107.244.112, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_5001 @WangCai_1, server: 118.107.244.112, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_7002 @WangCai_1, server: 118.107.244.112, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇭🇰 HK_4444 @WangCai_1, server: 118.107.244.112, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇭🇰 HK_9102 @WangCai_1, server: 118.107.244.112, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇭🇰 HK_8091 @WangCai_1, server: 118.107.244.112, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇭🇰 HK_8882 @WangCai_1, server: 118.107.244.112, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇭🇰 HK_7001 @WangCai_1, server: 118.107.244.112, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇭🇰 HK_5004 @WangCai_1 2, server: 118.107.244.110, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇭🇰 HK_8009 @WangCai_1 2, server: 118.107.244.110, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇭🇰 HK_7001 @WangCai_1 2, server: 118.107.244.110, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇭🇰 HK_8881 @WangCai_1 2, server: 118.107.244.110, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇭🇰 HK_0443 @WangCai_1 2, server: 118.107.244.110, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇭🇰 HK_2376 @WangCai_1, server: 118.107.244.110, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇭🇰 HK_8119 @WangCai_1 2, server: 118.107.244.110, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇭🇰 HK_6697 @WangCai_1 2, server: 118.107.244.110, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇭🇰 HK_3306 @WangCai_1 2, server: 118.107.244.110, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_8000 @WangCai_1 2, server: 118.107.244.110, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇭🇰 HK_8118 @WangCai_1 2, server: 118.107.244.110, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇭🇰 HK_5601 @WangCai_1 2, server: 118.107.244.110, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_8008 @WangCai_1 2, server: 118.107.244.110, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇭🇰 HK_5001 @WangCai_1 2, server: 118.107.244.110, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_5500 @WangCai_1 2, server: 118.107.244.110, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇭🇰 HK_8882 @WangCai_1 2, server: 118.107.244.110, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇭🇰 HK_9101 @WangCai_1 2, server: 118.107.244.110, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇭🇰 HK_5000 @WangCai_1 2, server: 118.107.244.110, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_8888 @WangCai_1 2, server: 118.107.244.110, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_3389 @WangCai_1, server: 118.107.244.110, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 HK_6379 @WangCai_1 2, server: 118.107.244.110, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇭🇰 HK_6679 @WangCai_1 2, server: 118.107.244.110, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇭🇰 HK_9102 @WangCai_1 2, server: 118.107.244.110, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇭🇰 HK_5003 @WangCai_1 2, server: 118.107.244.110, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇭🇰 HK_7002 @WangCai_1 2, server: 118.107.244.110, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
+  - {name: 🇭🇰 HK_4444 @WangCai_1 2, server: 118.107.244.110, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
